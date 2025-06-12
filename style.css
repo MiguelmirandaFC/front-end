@@ -11,7 +11,7 @@ header {
   top: 0;
   width: 100%;
   background-color: rgba(0, 51, 102, 0.9);
-  color: white;
+  color: black;
   text-align: center;
   padding: 20px 10px;
   z-index: 1000;
@@ -102,6 +102,6 @@ footer {
   text-align: center;
   padding: 20px;
   background-color: rgba(0, 51, 102, 0.9);
-  color: white;
+  color: green;
   margin-top: 50px;
 }
